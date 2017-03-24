@@ -1,0 +1,13 @@
+*{margin: 0px;padding:0px;}
+body{font-family: "微软雅黑";font-size: 14px;width: 100%;height: 100%;color: #666;width: 100%;height: 100%;}
+a{text-decoration: none;}
+a:hover{text-decoration: none;}
+ul,li{list-style: none;}
+table{width: 100%;border-collapse: collapse;}
+i,em{font-style: normal;}
+.Head{height: 80px;line-height: 80px;text-align: center;font-size: 24px;color: #666;background-color: #f2f2f2}
+.Left{width: 100%;height: 100%;position: absolute;background-color: #ddd;}
+.Left li{line-height: 60px;text-align: center;border-bottom: 1px solid #eee;}
+.Left li a{display: block;font-size: 24px;color: #666;}
+.Right{width: 100%;height: 100%;position: absolute;text-align: center;font-size: 24px;color: #666;}
+.Foot{height: 30px;line-height: 30px;text-align: center;color: #fff;font-size: 24px;background-color: #000;}
