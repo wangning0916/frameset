@@ -1,0 +1,3 @@
+window.top.frames['iframename'].frames['iframename'].fun();
+
+window.parent.frames['iframename'].fun();
